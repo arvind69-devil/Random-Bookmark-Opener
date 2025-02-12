@@ -48,12 +48,9 @@ If you find this extension useful, consider supporting me with a donation! Your 
 If you like my work, consider supporting me:
 
 - 💳 [PayPal](https://paypal.me/arvindranga69)
-  
-- 📲 [UPI (India)](upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga)  😊
-
-- Buy Me a Coffee☕:buymeacoffee.com/arvindrangv via Buy Me a Coffee 😁
-
-- Patreon:patreon.com/arvindranga69  Support me on Patreon 🐼
+- 📲 [UPI](upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga) 😊
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/arvindrangv) 😁  
+- 🐼 [Patreon](https://patreon.com/arvindranga69) – Support me on Patreon!  
 
 
  Thank you for being so supportive! ❤️

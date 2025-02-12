@@ -49,7 +49,8 @@ Buy Me a Coffee:buymeacoffee.com/arvindrangv via Buy Me a Coffee 😁
 
 Patreon:patreon.com/arvindranga69  Support me on Patreon 🐼
 
-UPI:arvind670@fifederal 💸
+UPI:upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga
+💸
 
 Thank you for being so supportive! ❤️
 

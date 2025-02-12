@@ -40,19 +40,23 @@ Use the Refresh button to refresh the list of bookmarks.
 
 The status message will show the name of the bookmark being opened.
 
-Donations
+Donations:
 If you find this extension useful, consider supporting me with a donation! Your support helps me maintain and improve this project.
 
-PayPal:paypal.me/arvindranga69 Donate via PayPal 😊
+## ☕ Support Me
 
-Buy Me a Coffee:buymeacoffee.com/arvindrangv via Buy Me a Coffee 😁
+If you like my work, consider supporting me:
 
-Patreon:patreon.com/arvindranga69  Support me on Patreon 🐼
+- 💳 [PayPal](https://paypal.me/arvindranga69)
+  
+- 📲 [UPI (India)](upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga)  😊
 
-UPI:upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga
-💸
+- Buy Me a Coffee☕:buymeacoffee.com/arvindrangv via Buy Me a Coffee 😁
 
-Thank you for being so supportive! ❤️
+- Patreon:patreon.com/arvindranga69  Support me on Patreon 🐼
+
+
+ Thank you for being so supportive! ❤️
 
 About Me!
 

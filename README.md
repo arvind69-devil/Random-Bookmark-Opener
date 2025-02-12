@@ -2,7 +2,8 @@
 
 A simple and lightweight browser extension that opens a random bookmark from your collection. Perfect for quickly accessing your saved links!
 
-![Extension Screenshot][Screenshot](https://github.com/user-attachments/assets/b4e91bb1-8354-4f18-aac1-bc1d57c1c647)
+![Extension Screenshot]![Screensh ot](https://github.com/user-attachments/assets/2f0d0182-4290-49c7-953f-26698af8e938)
+
 ![Screenshot ](https://github.com/user-attachments/assets/6b0581af-4181-4923-bc2e-58ca3a36b896)
 
 ## Features

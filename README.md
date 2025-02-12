@@ -49,6 +49,8 @@ Buy Me a Coffee:buymeacoffee.com/arvindrangv via Buy Me a Coffee 😁
 
 Patreon:patreon.com/arvindranga69  Support me on Patreon 🐼
 
+UPI:arvind670@fifederal 💸
+
 Thank you for being so supportive! ❤️
 
 About Me!

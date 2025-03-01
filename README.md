@@ -89,8 +89,8 @@ If you find this extension useful, consider supporting me! Your contributions he
 ### **Support Options:**
 - **PayPal:** [Donate via PayPal] (https://paypal.me/arvindranga69) 💳  
 - **UPI (India):** [upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga](upi://pay?pa=arvindranga69@okhdfcbank&pn=ArvindRanga) 📲  
-- **Buy Me a Coffee:** ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/)  
-- **Patreon:** 🐼 [Support me on Patreon](https://www.patreon.com/)  
+- **Buy Me a Coffee:** ☕ [Buy Me a Coffee](https://buymeacoffee.com/arvindrangv)  
+- **Patreon:** 🐼 [Support me on Patreon](https://patreon.com/arvindranga69)
 
 Thank you for your support! ❤️
 

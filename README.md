@@ -3,8 +3,8 @@
 
 # **Random Bookmark Opener**
 
-![Extension Screenshot](https://via.placeholder.com/800x400?text=Random+Bookmark+Opener)  
-*(Replace this placeholder with an actual screenshot of your extension.)*
+![Screenshot 2025-03-01 102924](https://github.com/user-attachments/assets/5d491336-85df-406a-89ec-bfcd42956b4e)
+
 
 ---
 

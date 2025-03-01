@@ -11,7 +11,7 @@ This privacy policy explains how Random Bookmark Opener handles user data:
 
 ### Third-Party Services
 - The extension does not use any third-party services or APIs.
-
+- Only use github and paypal domain to open developer support pages.
 ### Contact Us
 If you have any questions about this privacy policy, please contact us at:
 - GitHub: https://github.com/arvind69-devil/Random-Bookmark-Opener
